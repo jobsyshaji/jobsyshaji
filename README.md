@@ -39,3 +39,13 @@ Building security tools, CTF projects and automation systems.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jobsyshaji&color=blueviolet">
 </p>
+
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| CanTheyCrackIt | Password Strength Analyzer |
+| TrueOriginCo | OSINT Investigation Tool |
+| Vulnerability Intelligence System | CVE Prioritization Framework |
+| Image Steganography | Data Hiding Tool |
