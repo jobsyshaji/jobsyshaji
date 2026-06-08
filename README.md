@@ -1,12 +1,7 @@
-<div align="center">
+#  JOBSY SHAJI
 
-<img src="./assets/cyber-banner.svg" width="100%"/>
 
-# JOBSY S
-
-### Cybersecurity Researcher • Bug Hunter • OSINT Enthusiast • Python Developer
-
-</div>
+> Researcher | Learner | Developer
 
 ---
 
@@ -15,18 +10,7 @@
 ```bash
 $ whoami
 
-Jobsy S
-
-Cybersecurity Researcher
-Bug Hunter
-OSINT Investigator
-Python Developer
-
-$ current_focus
-
-Web Security
-Threat Intelligence
-AI Security
+Jobsy Shaji
 
 $ status
 
@@ -37,29 +21,88 @@ ONLINE
 
 ## 🔐 Security Arsenal
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,react,nodejs,mysql,mongodb,linux,git,github,vscode"/>
-</p>
+### Offensive Security
+
+- Burp Suite
+- Nmap
+- OWASP ZAP
+- Gobuster
+- Metasploit
+
+### Defensive Security
+
+- Threat Analysis
+- Log Monitoring
+- Incident Response
+- Security Assessment
+
+### Development
+
+- Python
+- JavaScript
+- React
+- .NET
+- MySQL
+
+
+### Operating Systems
+
+- Linux
+
+- Windows
+
+
 
 ---
 
-## 🚀 Active Operations
+## 🎯 Areas of Interest
 
-- CanTheyCrackIt
-- TrueOriginCo
-- VulPrio
-- CyberQuest
+- Web Application Security
+- Penetration Testing
+- Vulnerability Research
+- Open Source Intelligence (OSINT)
+- Threat Intelligence
+- Secure Software Development
+- AI for Cybersecurity
+
+
 
 ---
 
-## 📊 GitHub Intelligence
+## 🧠 Currently Learning
 
-Coming Soon...
+```text
+[██████████░░░░░░░░░░] Advanced Web Security
+
+[████████████░░░░░░░░] Threat Intelligence
+
+[████████░░░░░░░░░░░░] Malware Analysis
+
+[██████████████░░░░░░] Cloud Security
+```
+
+
+
+
+
+## ⚡ Cyber Motto
+
+```text
+"Think Like an Attacker.
+Build Like a Defender.
+Learn Like a Researcher."
+```
 
 ---
 
-## 🌐 Communication Channel
+```text
+[ SYSTEM STATUS ]
 
-- Email
-- LinkedIn
-- Portfolio
+User            : Jobsy S
+Role            : Cybersecurity Researcher
+Environment     : Secure
+Threat Level    : Low
+Monitoring      : Active
+
+Connection Terminated...
+```
