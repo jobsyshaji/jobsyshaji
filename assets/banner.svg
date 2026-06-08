@@ -12,6 +12,7 @@ font-family:'Orbitron',sans-serif;
 font-size:60px;
 font-weight:bold;
 fill:#00ff88;
+filter:url(#glow);
 }
 
 .sub{
@@ -32,20 +33,90 @@ animation:scan 4s linear infinite;
 
 </style>
 
+<defs>
+
+<filter id="glow">
+
+<feGaussianBlur stdDeviation="4"
+result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
 <rect class="bg" width="1200" height="300"/>
 
 <rect class="scan" x="0" y="0" width="1200" height="20"/>
 
-<text x="50%" y="120"
+<text x="20" y="40"
+fill="#00ff88"
+opacity="0.2"
+font-size="16">
+
+01010101 10101010 11100011
+
+<animate
+attributeName="y"
+values="40;300"
+dur="8s"
+repeatCount="indefinite"/>
+
+<text x="50%"
+y="120"
 text-anchor="middle"
 class="title">
+
 JOBSY SHAJI
+
+<animate
+attributeName="x"
+values="50%;50.2%;49.8%;50%"
+dur="0.2s"
+repeatCount="indefinite"/>
+
 </text>
 
-<text x="50%" y="180"
+<text
+x="50%"
+y="230"
 text-anchor="middle"
-class="sub">
-Cybersecurity Enthusiast
+fill="#00ff88"
+font-size="18">
+
+STATUS : ONLINE
+
 </text>
+
+<circle
+cx="690"
+cy="223"
+r="6"
+fill="#00ff88">
+
+<animate
+attributeName="opacity"
+values="1;0.3;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<rect
+x="20"
+y="20"
+width="1160"
+height="260"
+rx="15"
+fill="none"
+stroke="#00ff88"
+stroke-width="2"/>
 
 </svg>
