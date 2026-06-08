@@ -29,3 +29,10 @@ Building security tools, CTF projects and automation systems.
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-red?style=for-the-badge)
+
+
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobsyshaji&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobsyshaji&layout=compact&theme=tokyonight"/>
+</p>
