@@ -16,3 +16,7 @@ Building security tools, CTF projects and automation systems.
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=learner;Researcher;Developer">
 </p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,mysql,mongodb,linux,git,github,vscode" />
+</p>
