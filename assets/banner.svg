@@ -1,1 +1,51 @@
+<svg width="1200" height="300"
+xmlns="http://www.w3.org/2000/svg">
 
+<style>
+
+.bg{
+fill:#050b14;
+}
+
+.title{
+font-family:'Orbitron',sans-serif;
+font-size:60px;
+font-weight:bold;
+fill:#00ff88;
+}
+
+.sub{
+font-family:'Courier New',monospace;
+font-size:24px;
+fill:#00d9ff;
+}
+
+.scan{
+fill:rgba(0,255,136,0.15);
+animation:scan 4s linear infinite;
+}
+
+@keyframes scan{
+0%{transform:translateY(-300px);}
+100%{transform:translateY(300px);}
+}
+
+</style>
+
+<rect class="bg" width="1200" height="300"/>
+
+<rect class="scan" x="0" y="0" width="1200" height="20"/>
+
+<text x="50%" y="120"
+text-anchor="middle"
+class="title">
+JOBSY SHaji
+</text>
+
+<text x="50%" y="180"
+text-anchor="middle"
+class="sub">
+Cybersecurity Researcher
+</text>
+
+</svg>
