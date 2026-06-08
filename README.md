@@ -34,3 +34,32 @@ Building security tools, CTF projects and automation systems.
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=jobsyshaji&theme=tokyonight"/>
 </p>
+
+
+.github/workflows/snake.yml
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: jobsyshaji
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+
+
+![snake](https://github.com/jobsyshaji/jobsyshaji/blob/output/github-contribution-grid-snake.svg)
