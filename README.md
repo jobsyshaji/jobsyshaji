@@ -31,8 +31,6 @@ Building security tools, CTF projects and automation systems.
 ![OWASP](https://img.shields.io/badge/OWASP-red?style=for-the-badge)
 
 
-
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobsyshaji&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobsyshaji&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jobsyshaji&theme=tokyonight"/>
 </p>
