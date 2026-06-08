@@ -20,3 +20,12 @@ Building security tools, CTF projects and automation systems.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,mysql,mongodb,linux,git,github,vscode" />
 </p>
+
+## 🔐 Cybersecurity Arsenal
+
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-red?style=for-the-badge)
