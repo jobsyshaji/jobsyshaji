@@ -97,7 +97,6 @@
 
 
 
-
 <h2 align="center">🎯 Featured Projects</h2>
 
 <table>
@@ -105,50 +104,86 @@
 
 <td width="50%" valign="top" align="center">
 
-<h3>
-  <img src="https://img.shields.io/badge/CAPTCHA--F-4F46E5?style=for-the-badge" />
-</h3>
+<h2>CAPTCHA-f</h2>
 
-<h4>Web Security Testing Framework for CAPTCHA Vulnerability Analysis</h4>
-
-<p align="center">
-A security evaluation framework designed to assess the resilience of CAPTCHA authentication systems through OCR-driven attack simulations, automated analysis, and performance-based security metrics.
-</p>
+<h4>
+CAPTCHA Security Testing Framework for Vulnerability Analysis
+</h4>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pillow-8CAAE6?style=flat-square"/>
+<div align="left">
+
+▪ OCR-driven CAPTCHA attack simulation and testing<br><br>
+
+▪ Security evaluation framework for authentication systems<br><br>
+
+▪ Performance analysis using bypass-rate and accuracy metrics<br><br>
+
+▪ Automated reporting and visualization for security assessment
+
+</div>
+
+<br><br>
+
+<h4>Technologies</h4>
+
+<p align="center">
+  <kbd>Python</kbd>
+  <kbd>Selenium</kbd>
+  <kbd>Tesseract OCR</kbd>
+</p>
+
+<p align="center">
+  <kbd>Matplotlib</kbd>
+  <kbd>Pillow</kbd>
+</p>
 
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<h3>
-  <img src="https://img.shields.io/badge/VulPrio-DC2626?style=for-the-badge" />
-</h3>
+<h2>VulPrio</h2>
 
-<h4>Automated Vulnerability Scanning & Exploit Prioritization System</h4>
-
-<p align="center">
-An intelligent vulnerability management platform that combines network discovery, CVE intelligence, and CVSS-based risk assessment to prioritize remediation efforts and improve security decision-making.
-</p>
+<h4>
+Automated Vulnerability Scanning & Exploit Prioritization System
+</h4>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<div align="left">
+
+▪ Automated network discovery and enumeration<br><br>
+
+▪ CVE intelligence correlation and analysis engine<br><br>
+
+▪ CVSS-based vulnerability prioritization and risk assessment<br><br>
+
+▪ Dashboard-driven remediation planning and reporting
+
+</div>
+
+<br><br>
+
+<h4>Technologies</h4>
+
+<p align="center">
+  <kbd>Python</kbd>
+  <kbd>Flask</kbd>
+  <kbd>Nmap</kbd>
+</p>
+
+<p align="center">
+  <kbd>Pandas</kbd>
+  <kbd>Kali Linux</kbd>
+</p>
 
 </td>
 
 </tr>
 </table>
+```
+
 
 
 
