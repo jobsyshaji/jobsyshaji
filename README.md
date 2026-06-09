@@ -16,7 +16,7 @@
 
 
 
-````html
+
 <h2 align="center">💻 About Me</h2>
 
 <div align="center">
@@ -25,11 +25,11 @@
 <tr>
 <td>
 
-```text
+
 ┌──────────────────────────────────────┐
 │ 🔴 🟡 🟢  root@jobsy:~               │
 └──────────────────────────────────────┘
-````
+
 
 <div align="left">
 
@@ -68,7 +68,7 @@ ACTIVE █
 </table>
 
 </div>
-```
+
 
 
 
