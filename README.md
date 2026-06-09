@@ -108,7 +108,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=CAPTCHA-f" />
 </p>
 <h3>
-###CAPTCHA Security Testing Framework for Vulnerability Analysis
+CAPTCHA Security Testing Framework for Vulnerability Analysis
 </h3>
 
 <br>
@@ -119,7 +119,7 @@
 
 </div>
 
-<br><br>
+
 
 <h4>Technologies</h4>
 
@@ -150,7 +150,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 ▪ An intelligent vulnerability management platform that combines network discovery, CVE intelligence, and CVSS-based risk assessment to prioritize remediation efforts and improve security decision-making
 </div>
 
-<br><br>
+
 
 <h4>Technologies</h4>
 
