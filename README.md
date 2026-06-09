@@ -58,37 +58,32 @@
 
 
 
+
 <h2 align="center">⚙️ Tech Arsenal</h2>
 
-### Programming & Development
+### 🌐 Programming & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,react,html,css" />
 </p>
 
-### Platforms & Environment
+### ☁️ Platforms & Environment
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,aws,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="48" />
+  <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/canva" width="48" />
 </p>
+
+### 🔐 Cybersecurity Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/wireshark" width="48" />
+  <img src="https://cdn.simpleicons.org/tryhackme" width="48" />
 </p>
 
-### Security Toolkit
-
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSINT-EA4C89?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
-</p>
 
 
 
