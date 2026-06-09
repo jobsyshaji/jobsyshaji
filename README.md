@@ -22,10 +22,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+whoami" />
-
-<br>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+whoami" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=999999&color=FFFFFF&width=900&lines=Jobsy+Shaji" />
 
 <br><br>
