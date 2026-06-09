@@ -228,12 +228,21 @@ Always open to discussing cybersecurity, open-source projects, and new opportuni
 
 
 <br>
+
+<div align="center">
+
+### Learn. • Build. • Break. • Secure. • Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:00F5FF,100:EF4444&section=footer"/>
+
+</div>
+
+
 <div align="center">
 
 
-root@jobsy:~$ logout
+<i>root@jobsy:~$ logout</i>
 
-Session terminated.
 
 
 
