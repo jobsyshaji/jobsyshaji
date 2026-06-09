@@ -98,48 +98,55 @@
 
 
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Work</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-## CAPTCHA-F
+### CAPTCHA-F
 
-### Web Security Testing Framework for CAPTCHA Vulnerability Analysis
+**Web Security Testing Framework for CAPTCHA Vulnerability Analysis**
 
-**Tech Stack**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pillow-8CAAE6?style=flat-square"/>
 
-Python • Selenium • Tesseract OCR • Matplotlib • Pillow
+<br><br>
 
-**Highlights**
+🛡️ Security evaluation framework for CAPTCHA authentication systems
 
-- Developed a security evaluation framework for CAPTCHA authentication systems.
-- Simulated OCR-driven attack pipelines to assess CAPTCHA resilience.
-- Measured bypass success rate, accuracy, and solve-time metrics.
-- Automated report generation for security analysis.
+⚡ OCR-driven attack simulation and resilience testing
 
-</td>
+📊 Accuracy, bypass-rate and solve-time analysis
 
-<td width="50%" valign="top">
+📑 Automated reporting and visualization
 
-## VulPrio
+---
 
-### Automated Vulnerability Scanning & Exploit Prioritization System
+### VulPrio
 
-**Tech Stack**
+**Automated Vulnerability Scanning & Exploit Prioritization System**
 
-Python • Flask • Nmap • Pandas • Kali Linux
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 
-**Highlights**
+<br><br>
 
-- Integrated network discovery with vulnerability intelligence.
-- Correlated CVEs with CVSS scoring metrics.
-- Built a risk-prioritization engine for remediation planning.
-- Developed a dashboard for exposure analysis and reporting.
+🌐 Automated network discovery and enumeration
 
-</td>
-</tr>
+🎯 CVE intelligence correlation and analysis
+
+📈 CVSS-based risk scoring and prioritization
+
+📋 Interactive remediation dashboard
+
+</div>
+
+
 </table>
 
 
