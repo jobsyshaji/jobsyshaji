@@ -59,7 +59,7 @@
 
 
 
-<h2 align="center">⚙️ Tech Arsenal</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 ### Programming & Development
 
@@ -73,7 +73,7 @@
   <img src="https://skillicons.dev/icons?i=linux,aws,github,vscode,pycharm" /> 
 </p>
 
-### Cybersecurity Toolkit
+### Security Arsenal
 
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -136,7 +136,7 @@ CAPTCHA Security Testing Framework for Vulnerability Analysis
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=VulPrio" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=VULPRIO" />
 </p>
 
 <h3>
