@@ -16,33 +16,60 @@
 
 
 
+````html
 <h2 align="center">💻 About Me</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+whoami" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=999999&color=FFFFFF&width=900&lines=Jobsy+Shaji" />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+cat+mission.txt" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=999999&color=58A6FF&width=900&lines=Building+security-focused+solutions.;Automating+the+repetitive.;Learning+the+impossible." />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+ls+hobbies" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=999999&color=F75C7E&width=900&lines=capture-the-flags;hunting-bugs;breaking-things-to-fix-them" />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+history" />
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=999999&color=FFA500&width=900&lines=learn;build;break;secure;repeat" />
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+echo+%24STATUS" />
 
-<br>
+<table>
+<tr>
+<td>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=999999&color=00FF41&width=900&lines=ACTIVE+█" />
+```text
+┌──────────────────────────────────────┐
+│ 🔴 🟡 🟢  root@jobsy:~               │
+└──────────────────────────────────────┘
+````
+
+<div align="left">
+
+<span style="color:#00FF41;">root@jobsy:~$ whoami</span>
+
+Jobsy Shaji
+
+<span style="color:#00FF41;">root@jobsy:~$ cat mission.txt</span>
+
+Building security-focused solutions.
+Automating the repetitive.
+Learning the impossible.
+
+<span style="color:#00FF41;">root@jobsy:~$ ls hobbies</span>
+
+capture-the-flags
+hunting-bugs
+breaking-things-to-fix-them
+
+<span style="color:#00FF41;">root@jobsy:~$ history</span>
+
+learn
+build
+break
+secure
+repeat
+
+<span style="color:#00FF41;">root@jobsy:~$ echo $STATUS</span>
+
+ACTIVE █
+
+</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 ```
+
 
 
 
