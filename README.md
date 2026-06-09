@@ -220,10 +220,21 @@ Always open to discussing cybersecurity, open-source projects, and new opportuni
   </a>
 </p>
 
-<p align="center">
-  <i>From curiosity to cybersecurity.</i>
-</p>
-```
+
+
+
+
+
+
+
+<br>
+<div align="center">
+
+
+root@jobsy:~$ logout
+
+Session terminated.
+
 
 
 
