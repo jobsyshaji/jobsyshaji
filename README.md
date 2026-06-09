@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&lines=HEY+,+I'M+JOBSY" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=999999&color=00F7FF&center=true&vCenter=true&width=1000&lines=HEY+,+I'M+JOBSY!" />
 
 <br>
 
@@ -42,7 +42,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=FFFFFF&width=900&height=20&lines=learn+-+build+-+break+-+secure+-+repeat" /><br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&height=20&lines=root%40jobsy%3A~%24+echo+%24STATUS" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=FFFFFF&width=900&height=20&lines=ACTIVE+█" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=FFFFFF&width=900&height=20&lines=ACTIVE" />
 
 </td>
 </tr>
