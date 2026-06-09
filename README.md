@@ -23,39 +23,24 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+whoami" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=999999&color=FFFFFF&width=900&lines=Jobsy+Shaji" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=999999&color=FFFFFF&width=900&lines=Jobsy+Shaji" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+cat+mission.txt" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+cat+mission.txt" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=999999&color=FFFFF&width=900&lines=Building+security-focused+solutions.;Automating+the+repetitive.;Learning+the+impossible." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=999999&color=58A6FF&width=900&lines=Building+security-focused+solutions.;Automating+the+repetitive.;Learning+the+impossible." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+ls+hobbies" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=999999&color=FFFFF&width=900&lines=capture-the-flags;hunting-bugs;breaking-things-to-fix-them" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+ls+hobbies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+history" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=999999&color=FFFFF&width=900&lines=learn;build;break;secure;repeat" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=999999&color=F75C7E&width=900&lines=capture-the-flags;hunting-bugs;breaking-things-to-fix-them" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+echo+%24STATUS" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+history" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=999999&color=FFA500&width=900&lines=learn;build;break;secure;repeat" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00FF41&width=900&lines=root%40jobsy%3A~%24+echo+%24STATUS" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=999999&color=00FF41&width=900&lines=ACTIVE+█" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=999999&color=FFFFF&width=900&lines=ACTIVE+█" />
 
 </div>
 
