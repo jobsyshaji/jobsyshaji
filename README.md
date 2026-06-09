@@ -231,8 +231,9 @@ Always open to discussing cybersecurity, open-source projects, and new opportuni
 
 <div align="center">
 
-### ▪ Learn ▪ Build ▪ Break ▪ Secure ▪ Repeat ▪
-<i>root@jobsy:~$ logout</i>
+### <i>Until the next commit...</i>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1&pause=999999&color=00FF41&width=900&height=20&lines=root%40jobsy%3A~%24+exit" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:00F5FF,100:EF4444&section=footer"/>
 
