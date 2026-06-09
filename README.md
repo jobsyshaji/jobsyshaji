@@ -107,9 +107,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=CAPTCHA-f" />
 </p>
-<h4>
-CAPTCHA Security Testing Framework for Vulnerability Analysis
-</h4>
+<h3>
+###CAPTCHA Security Testing Framework for Vulnerability Analysis
+</h3>
 
 <br>
 
@@ -136,12 +136,12 @@ CAPTCHA Security Testing Framework for Vulnerability Analysis
 <td width="50%" valign="top" align="center">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=EF4444&center=true&vCenter=true&width=300&lines=VulPrio" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=VulPrio" />
 </p>
 
-<h4>
+<h3>
 Automated Vulnerability Scanning & Exploit Prioritization System
-</h4>
+</h3>
 
 <br>
 
