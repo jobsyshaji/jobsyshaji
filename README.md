@@ -17,57 +17,43 @@
 
 
 
+
 <h2 align="center">💻 About Me</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://img.shields.io/badge/●-ff5f56?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/●-ffbd2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/●-27c93f?style=for-the-badge"/>
 
 
-┌──────────────────────────────────────┐
-│ 🔴 🟡 🟢  root@jobsy:~               │
-└──────────────────────────────────────┘
-
-
-<div align="left">
-
-<span style="color:#00FF41;">root@jobsy:~$ whoami</span>
-
+root@jobsy:~$ whoami
 Jobsy Shaji
 
-<span style="color:#00FF41;">root@jobsy:~$ cat mission.txt</span>
-
+root@jobsy:~$ cat mission.txt
 Building security-focused solutions.
 Automating the repetitive.
 Learning the impossible.
 
-<span style="color:#00FF41;">root@jobsy:~$ ls hobbies</span>
-
+root@jobsy:~$ ls hobbies
 capture-the-flags
 hunting-bugs
 breaking-things-to-fix-them
 
-<span style="color:#00FF41;">root@jobsy:~$ history</span>
-
+root@jobsy:~$ history
 learn
 build
 break
 secure
 repeat
 
-<span style="color:#00FF41;">root@jobsy:~$ echo $STATUS</span>
-
+root@jobsy:~$ echo $STATUS
 ACTIVE █
 
-</div>
-
-</td>
-</tr>
-</table>
 
 </div>
+
+
 
 
 
