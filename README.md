@@ -160,6 +160,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
   <kbd>Nmap</kbd>
   <kbd>Pandas</kbd>
   <kbd>Kali Linux</kbd>
+  <kbd>Vulners API</kbd>
 </p>
 
 </td>
@@ -185,7 +186,9 @@ Automated Vulnerability Scanning & Exploit Prioritization System
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobsyshaji&theme=tokyonight&hide_border=true"/>
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jobsyshaji&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
 
 
 
