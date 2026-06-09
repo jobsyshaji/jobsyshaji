@@ -70,7 +70,7 @@
 ### Platforms & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws,github,vscode" /> <img src="https://cdn.simpleicons.org/tryhackme" width="48" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,github,vscode,pycharm" /> 
 </p>
 
 ### Cybersecurity Toolkit
