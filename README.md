@@ -1,10 +1,5 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=40&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&height=80&lines=HEY+THERE,+I'AM+JOBSY!" />
-
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2500&pause=100000&color=00F7FF&center=true&vCenter=true&width=1000&height=80&lines=HEY+,+I'M+JOBSY" />
 
 <br>
@@ -18,9 +13,5 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:0066FF&height=2&section=header"/>
-
-</div>
-```
-
 
 </div>
