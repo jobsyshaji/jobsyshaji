@@ -104,8 +104,9 @@
 
 <td width="50%" valign="top" align="center">
 
-<h2>CAPTCHA-f</h2>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=7C3AED&center=true&vCenter=true&width=300&lines=CAPTCHA-f" />
+</p>
 <h4>
 CAPTCHA Security Testing Framework for Vulnerability Analysis
 </h4>
@@ -114,13 +115,7 @@ CAPTCHA Security Testing Framework for Vulnerability Analysis
 
 <div align="left">
 
-▪ OCR-driven CAPTCHA attack simulation and testing<br><br>
-
-▪ Security evaluation framework for authentication systems<br><br>
-
-▪ Performance analysis using bypass-rate and accuracy metrics<br><br>
-
-▪ Automated reporting and visualization for security assessment
+▪ A security evaluation framework designed to assess the resilience of CAPTCHA authentication systems through OCR-driven attack simulations, automated analysis, and performance-based security metrics.
 
 </div>
 
@@ -132,9 +127,6 @@ CAPTCHA Security Testing Framework for Vulnerability Analysis
   <kbd>Python</kbd>
   <kbd>Selenium</kbd>
   <kbd>Tesseract OCR</kbd>
-</p>
-
-<p align="center">
   <kbd>Matplotlib</kbd>
   <kbd>Pillow</kbd>
 </p>
@@ -143,7 +135,9 @@ CAPTCHA Security Testing Framework for Vulnerability Analysis
 
 <td width="50%" valign="top" align="center">
 
-<h2>VulPrio</h2>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=999999&color=EF4444&center=true&vCenter=true&width=300&lines=VulPrio" />
+</p>
 
 <h4>
 Automated Vulnerability Scanning & Exploit Prioritization System
@@ -153,14 +147,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 <div align="left">
 
-▪ Automated network discovery and enumeration<br><br>
-
-▪ CVE intelligence correlation and analysis engine<br><br>
-
-▪ CVSS-based vulnerability prioritization and risk assessment<br><br>
-
-▪ Dashboard-driven remediation planning and reporting
-
+▪ An intelligent vulnerability management platform that combines network discovery, CVE intelligence, and CVSS-based risk assessment to prioritize remediation efforts and improve security decision-making
 </div>
 
 <br><br>
@@ -171,9 +158,6 @@ Automated Vulnerability Scanning & Exploit Prioritization System
   <kbd>Python</kbd>
   <kbd>Flask</kbd>
   <kbd>Nmap</kbd>
-</p>
-
-<p align="center">
   <kbd>Pandas</kbd>
   <kbd>Kali Linux</kbd>
 </p>
@@ -182,7 +166,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 </tr>
 </table>
-```
+
 
 
 
