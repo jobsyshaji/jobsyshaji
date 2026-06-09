@@ -199,10 +199,15 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 <br>
 
-<h2 align="center">📫 Connect With Me</h2>
+
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jobsy28">
+Always open to discussing cybersecurity, open-source projects, and new opportunities.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jobsys28">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -214,6 +219,12 @@ Automated Vulnerability Scanning & Exploit Prioritization System
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+<p align="center">
+  <i>From curiosity to cybersecurity.</i>
+</p>
+```
+
 
 
 
