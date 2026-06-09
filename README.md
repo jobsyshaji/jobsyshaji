@@ -15,7 +15,7 @@
 
 
 
-
+<br>
 
 <h2 align="center">💻 About Me</h2>
 
@@ -58,7 +58,7 @@
 
 
 
-
+<br><br>
 <h2 align="center">⚙️ Tech Stack</h2>
 
 ### Programming & Development
@@ -85,18 +85,18 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
 <br><br>
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">🎯 Featured Projects</h2>
 
 <table>
@@ -176,18 +176,21 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 
 
-
+<br><br>
 <h2 align="center">📊 Analytics</h2>
 
+```
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobsyshaji&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobsyshaji&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+```
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jobsyshaji&theme=tokyonight&hide_border=true"/>
 </p>
 
+```
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jobsyshaji&theme=tokyo-night&hide_border=true"/>
 </p>
