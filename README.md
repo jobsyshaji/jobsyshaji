@@ -93,3 +93,59 @@
 
 
 
+
+
+
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## CAPTCHA-F
+
+### Web Security Testing Framework for CAPTCHA Vulnerability Analysis
+
+**Tech Stack**
+
+Python • Selenium • Tesseract OCR • Matplotlib • Pillow
+
+**Highlights**
+
+- Developed a security evaluation framework for CAPTCHA authentication systems.
+- Simulated OCR-driven attack pipelines to assess CAPTCHA resilience.
+- Measured bypass success rate, accuracy, and solve-time metrics.
+- Automated report generation for security analysis.
+
+</td>
+
+<td width="50%" valign="top">
+
+## VulPrio
+
+### Automated Vulnerability Scanning & Exploit Prioritization System
+
+**Tech Stack**
+
+Python • Flask • Nmap • Pandas • Kali Linux
+
+**Highlights**
+
+- Integrated network discovery with vulnerability intelligence.
+- Correlated CVEs with CVSS scoring metrics.
+- Built a risk-prioritization engine for remediation planning.
+- Developed a dashboard for exposure analysis and reporting.
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
