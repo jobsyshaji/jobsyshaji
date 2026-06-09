@@ -98,13 +98,24 @@
 
 
 
-<h2 align="center">🚀 Featured Work</h2>
+<h2 align="center">🎯 Featured Projects</h2>
 
-<div align="center">
+<table>
+<tr>
 
-### CAPTCHA-F
+<td width="50%" valign="top" align="center">
 
-**Web Security Testing Framework for CAPTCHA Vulnerability Analysis**
+<h3>
+  <img src="https://img.shields.io/badge/CAPTCHA--F-4F46E5?style=for-the-badge" />
+</h3>
+
+<h4>Web Security Testing Framework for CAPTCHA Vulnerability Analysis</h4>
+
+<p align="center">
+A security evaluation framework designed to assess the resilience of CAPTCHA authentication systems through OCR-driven attack simulations, automated analysis, and performance-based security metrics.
+</p>
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
@@ -112,21 +123,21 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pillow-8CAAE6?style=flat-square"/>
 
-<br><br>
+</td>
 
-🛡️ Security evaluation framework for CAPTCHA authentication systems
+<td width="50%" valign="top" align="center">
 
-⚡ OCR-driven attack simulation and resilience testing
+<h3>
+  <img src="https://img.shields.io/badge/VulPrio-DC2626?style=for-the-badge" />
+</h3>
 
-📊 Accuracy, bypass-rate and solve-time analysis
+<h4>Automated Vulnerability Scanning & Exploit Prioritization System</h4>
 
-📑 Automated reporting and visualization
+<p align="center">
+An intelligent vulnerability management platform that combines network discovery, CVE intelligence, and CVSS-based risk assessment to prioritize remediation efforts and improve security decision-making.
+</p>
 
----
-
-### VulPrio
-
-**Automated Vulnerability Scanning & Exploit Prioritization System**
+<br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -134,20 +145,12 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 
-<br><br>
+</td>
 
-🌐 Automated network discovery and enumeration
-
-🎯 CVE intelligence correlation and analysis
-
-📈 CVSS-based risk scoring and prioritization
-
-📋 Interactive remediation dashboard
-
-</div>
-
-
+</tr>
 </table>
+
+
 
 
 
