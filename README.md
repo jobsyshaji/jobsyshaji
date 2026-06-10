@@ -182,7 +182,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobsyshaji&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobsyshaji&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=jobsyshaji&theme=midnight-purple&hide_border=true&border_radius=12" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jobsyshaji&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
