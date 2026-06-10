@@ -183,7 +183,7 @@ Automated Vulnerability Scanning & Exploit Prioritization System
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jobsyshaji&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jobsyshaji&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
